@@ -3,7 +3,7 @@
 **Nombre:** [Amtony Jeovani Castañeda Rios]
 **Carné:** [1890-17-15352]
 
-## Descripción del proyecto
+## Descripción del proyecto.
 
 Maquetación visual (solo diseño, sin funcionalidad) de la página principal de una
 tienda online ficticia llamada **NovaShop**, desarrollada con **HTML5** y
